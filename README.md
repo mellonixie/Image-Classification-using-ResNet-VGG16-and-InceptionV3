@@ -1,1 +1,1 @@
-# Image-Classification-using-ResNet-and-VGGNet
+# Image-Classification-using-ResNet, VGGNet and InceptionV3
